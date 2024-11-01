@@ -15,6 +15,10 @@ cmake ..
 cmake --build .
 ```
 
+## Requirements ##
+
+- [boost](https://www.boost.org/)
+
 ## Usage ##
 
 ```bash
